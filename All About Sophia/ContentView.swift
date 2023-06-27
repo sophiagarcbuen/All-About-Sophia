@@ -54,6 +54,7 @@ struct ContentView: View {
                 .fontWeight(.thin)
             }
             .fontWeight(.thin)
+            .padding()
             
             
         }
